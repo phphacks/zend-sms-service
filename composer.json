@@ -5,7 +5,8 @@
     "require": {
         "zendframework/zend-servicemanager": "^3.3",
         "zendframework/zend-mvc": "^3.1",
-        "comtele/comtele_sdk": "^1.1"
+        "comtele/comtele_sdk": "^1.1",
+        "total-voice/php-client": "1.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.2"
